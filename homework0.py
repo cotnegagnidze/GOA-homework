@@ -1,7 +1,7 @@
 from turtle import *
 width(7)
 speed(10000000)
-color("blue")
+color("pink")
 begin_fill()
 forward(200)
 
@@ -29,7 +29,7 @@ goto(200, 200)
 pendown()
 
 right(150)
-color("green")
+color("yellow")
 begin_fill()
 forward(200)
 left(120)
@@ -38,7 +38,7 @@ end_fill()
 penup()
 goto(20, 125)
 pendown()
-color("cyan")
+color("purple")
 begin_fill()
 right(150)
 forward(40)
@@ -68,12 +68,3 @@ pendown()
 color("yellow")
 forward(50)
 exitonclick()
-
-
-
-
-
-
-
-
-

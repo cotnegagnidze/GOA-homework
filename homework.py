@@ -1,0 +1,32 @@
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+print ("cotnegagnidze")
+
+name = "cotne"
+surname = "gagnidze"
+age = (13)
+homecountry = "georgia"
+grade = (8)
+ 
+print (name)
+print (surname)
+print (age)
+print (homecountry)
+print (grade)

@@ -8,3 +8,13 @@ name = input("hello - enter your name")
 surname = input("hello - enter your surname")
 
 print ("hello"+name+surname)
+
+x = 10
+y = 20
+z = 5
+print (x+y+z)
+print (x-y-z)
+print (x*y*z)
+print (x/y/z)
+print (x**y**z)
+print (x%y%z)

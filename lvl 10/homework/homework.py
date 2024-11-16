@@ -7,7 +7,7 @@ print (hum)
 muh = str(input("fwafawgwgawgda"))
 print (muh)
 
-# მონაცემთა ტიპის კონვერტაცია მაშინ გვჭირდება როდესაც გვინდა რომ მონაცეს ტიპი შევუცვალოთ მაგალითად float ჩავწეროთ როგორც integer
+# მონაცემთა ტიპის კონვერტაცია მაშინ გვჭირდება როდესაც გვინდა რომ მონაცემს ტიპი შევუცვალოთ მაგალითად float ჩავწეროთ როგორც integer
 
 a = 10 > 5
 print (a)
@@ -38,3 +38,6 @@ age2= int(input("please enter your age"))
 age3 = int(input("please enter your age"))
 
 print ((age1+age2+age3)/3)
+
+
+

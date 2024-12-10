@@ -30,11 +30,10 @@
 
 
 
-correct_password ="GOA BEST"
-while True: 
-    password = input ("password")
-
-if password == correct_password:
-    print ("correct password")
-else:
-    print ("incorrect password. try again")
+# correct_password ="GOA BEST"
+# while True: 
+#     password = input ("password")
+# if password == correct_password:
+#     print ("correct password")
+# else:
+#     print ("incorrect password. try again")

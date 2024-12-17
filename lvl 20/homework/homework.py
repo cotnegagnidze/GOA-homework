@@ -41,10 +41,10 @@
 # else:
 #     print (num1, "<", num2)
 
-list3 = [1, 2, 3, 4, 5]
-num1 = list3[0]
-print (num1)
-num2 = list3[2]
-print (num2)
-num3 = list3[4]
-print (num3)
+# list3 = [1, 2, 3, 4, 5]
+# num1 = list3[0]
+# print (num1)
+# num2 = list3[2]
+# print (num2)
+# num3 = list3[4]
+# print (num3)

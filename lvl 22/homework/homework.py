@@ -9,10 +9,25 @@
 # print("Third element:", numbers[2])  
 # print("Last element:", numbers[-1])
 
-str = ["apple", "banana", "cherry", "date"]
+# str = ["apple", "banana", "cherry", "date"]
 
 
-strings = str[::-1]
+# strings = str[::-1]
 
 
-print(strings)
+# print(strings)
+
+
+
+# words = ["apple", "banana", "cherry", "date", "elderberry", "fig", "grape"]
+
+
+# print(words[::2])
+
+
+# num = [10, 20, 30, 40, 50, 60]  
+
+# num[3] = 100
+
+
+# print(num)

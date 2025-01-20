@@ -38,3 +38,6 @@ result = manual_swapcase(input_text)
 print("Original:", input_text)
 print("Swapped:", result)
 
+main_str = str(input("Enter main string: "))
+str_to_count = str(input("Enter string to count: "))
+print(main_str.count(str_to_count))

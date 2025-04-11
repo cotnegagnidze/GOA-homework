@@ -23,12 +23,30 @@
 # List Index Access
 # Create a small list and ask the user for an index to access. Handle the case when the index is out of range.
 
-names = ["david", "anna", "isagi", "mark,"]
+# names = ["david", "anna", "isagi", "mark,"]
 
-choice = int(input("index: "))
+# choice = int(input("index: "))
 
-try:
-    print (names[choice])
+# try:
+#     print (names[choice])
 
-except IndexError:
-    print ("unavailable index")
+# except IndexError:
+#     print ("unavailable index")
+
+
+
+# my_dict = {
+#     "name": "Luka",
+#     "age": 17
+# }
+
+# key = "grade"
+
+# try:
+#     value = my_dict[key]
+#     print("Value:", value)
+# except KeyError:
+#     print(f"Key '{key}' not found in dictionary.")
+
+
+32 34 24 23 22 10

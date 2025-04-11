@@ -48,5 +48,3 @@
 # except KeyError:
 #     print(f"Key '{key}' not found in dictionary.")
 
-
-32 34 24 23 22 10

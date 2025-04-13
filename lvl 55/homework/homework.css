@@ -176,3 +176,113 @@ Use a class toggle to switch between an animation that loops and one that doesn'
     }
   }
   
+
+  /* Set an animation to start 2 seconds after the page loads.
+Create a sequence of three elements animating one after another using different animation-delay values.
+Make a fading effect that lasts for exactly 10 seconds. */
+
+
+#div8 {
+    background: black;
+    width: 250px;
+    height: 250px;
+    border-radius: 25%;
+    animation: deg1 2s linear 5s;
+}
+
+
+@keyframes deg1 {
+    from {
+        transform: rotate(0deg)
+    }
+    to {
+        transform: rotate(120deg)
+    }
+}
+
+
+#div9 {
+    background: black;
+    width: 250px;
+    height: 250px;
+    border-radius: 25%;
+    animation: delay 2s linear infinite;
+    position: absolute;
+    left: 700px;
+}
+
+@keyframes delay {
+    from {
+        transform: translateY(0px);
+    }
+    
+    50% {
+        transform: translateY(400px)
+    }
+    to {
+        transform: translateY(0px);
+    }
+}
+
+#div10 {
+    background: black;
+    width: 250px;
+    height: 250px;
+    border-radius: 25%;
+    animation: delay1 2s linear 1s infinite;
+    position: absolute;
+    left: 1000px;
+}
+
+@keyframes delay1 {
+    from {
+        transform: translateY(0px);
+    }
+    
+    50% {
+        transform: translateY(400px)
+    }
+    to {
+        transform: translateY(0px);
+    }
+}
+
+#div11 {
+    background: black;
+    width: 250px;
+    height: 250px;
+    border-radius: 25%;
+    animation: delay2 2s linear 2s infinite;
+    position: absolute;
+    left: 1300px;
+}
+
+@keyframes delay2 {
+    from {
+        transform: translateY(0px);
+    }
+    
+    50% {
+        transform: translateY(400px)
+    }
+    to {
+        transform: translateY(0px);
+    }
+}
+
+#div12 {
+    background: black;
+    width: 250px;
+    height: 250px;
+    border-radius: 25%;
+    animation: fade 10s linear infinite;
+}
+
+@keyframes fade {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
